@@ -1,0 +1,23 @@
+{
+  "name": "lap_project",
+  "version": "1.0.0",
+  "description": "LAP Project",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^2.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "bla"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeBo89/LAP_project.git"
+  },
+  "author": "Jeroen Borst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeBo89/LAP_project/issues"
+  },
+  "homepage": "https://github.com/JeBo89/LAP_project#readme"
+}
